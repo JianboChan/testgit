@@ -8,6 +8,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.diea/
+*.py[cop]
 build/
 develop-eggs/
 dist/
